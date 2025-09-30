@@ -39,6 +39,6 @@ Integrate predictive analysis (e.g., forecast sales using ML).
 Altaf Shaikh  
 📧 Email: altafshaikh04740@gmail.com  
 🌐 GitHub: [itsaltaf313](https://github.com/itsaltaf313)  
-💼 LinkedIn: [Altaf Shaikh](https://www.linkedin.com/in/altafshaikh)  
+💼 LinkedIn: (https://www.linkedin.com/in/altaf-shaikh-12345678/)
 
 📌 Aspiring Data Scientist | Skilled in SQL, Python, Machine Learning, and Data Visualization
